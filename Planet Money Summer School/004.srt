@@ -1,0 +1,1616 @@
+1
+00:00:08,117 --> 00:00:09,399
+This is NPR.
+
+2
+00:00:09,679 --> 00:00:17,528
+Hello and welcome to Planet Money Summer School, your eight week fast track to riches and power, or at least an understanding of how those things work.
+
+3
+00:00:18,089 --> 00:00:21,733
+This is class number three, profit and cocaine.
+
+4
+00:00:22,771 --> 00:00:23,371
+I'm Robert Smith.
+
+5
+00:00:23,511 --> 00:00:31,053
+Every Wednesday till Labor Day, we are tagging along with you to the beach, to the park to teach you the essential principles of Econ 101.
+
+6
+00:00:32,054 --> 00:00:34,194
+Oh, and did we mention there is going to be a test?
+
+7
+00:00:34,574 --> 00:00:43,697
+Pass a few simple questions at the end of the course and we'll put your name on a planet money diploma suitable for framing, not suitable to be used as an educational credential.
+
+8
+00:00:44,397 --> 00:00:50,203
+In class one, we talked about how economists think about individual decisions, costs and benefits, opportunity cost.
+
+9
+00:00:50,783 --> 00:00:55,928
+Class two sorted out those decisions into a market, complete with prices and supply and demand.
+
+10
+00:00:56,649 --> 00:01:00,913
+And now here in class three, we're going to get down to the business of business.
+
+11
+00:01:02,461 --> 00:01:03,661
+What makes a product sell?
+
+12
+00:01:03,981 --> 00:01:06,542
+What are the risks and rewards of being an entrepreneur?
+
+13
+00:01:07,122 --> 00:01:08,883
+And how do you keep competitors out?
+
+14
+00:01:09,863 --> 00:01:15,664
+Economists often like to look at the extreme cases of something in order to see the principles at work underneath.
+
+15
+00:01:15,684 --> 00:01:17,705
+And that's what we're going to do in this class.
+
+16
+00:01:18,025 --> 00:01:25,366
+The subject of today's lesson and story was one of the most notorious and successful crack dealers in Los Angeles in the 1980s and 1990s.
+
+17
+00:01:32,728 --> 00:01:39,310
+But when I sold drugs, if they had told me they was going to legalize it, I would have been mad because I knew that that was going to dry the price down.
+
+18
+00:01:39,670 --> 00:01:43,771
+We should note there's also a successful rapper and music executive named Rick Ross.
+
+19
+00:01:44,411 --> 00:01:49,293
+He took that name as an homage to freeway Ricky Ross, but the two of them have no connection.
+
+20
+00:01:49,833 --> 00:01:56,755
+Today on Summer School, we take a look at the economics of drug dealing and do a reality check with an actual drug kingpin.
+
+21
+00:01:57,415 --> 00:02:07,817
+And then at the end of the episode, we'll bring in our economists and residents, Betsy Stevenson and Justin Wolfers, who will show us how the lessons learned on the street can be used to think about how all businesses work.
+
+22
+00:02:09,269 --> 00:02:12,030
+This message comes from Western Governors University.
+
+23
+00:02:12,590 --> 00:02:18,952
+WGU is a non-profit university committed to helping you reach your academic goals at an affordable price.
+
+24
+00:02:19,272 --> 00:02:33,536
+They charge a flat rate tuition for every six month term, meaning the more courses you complete each term, the more affordable your degree becomes, offering online bachelor's and master's degrees in business, IT, education, and nursing.
+
+25
+00:02:33,776 --> 00:02:38,797
+Learn more about their offerings at wgu.edu slash planetmoney.
+
+26
+00:02:40,167 --> 00:02:45,812
+A Minneapolis business owner's daughter is called out publicly for racist anti-black tweets.
+
+27
+00:02:46,633 --> 00:02:52,438
+Fighting to save his business and trying to make amends, he calls on a prominent black Muslim leader for help.
+
+28
+00:02:53,198 --> 00:02:54,499
+He's an Arab Muslim.
+
+29
+00:02:54,660 --> 00:02:57,262
+To hear what happens next, listen to Codeswitch from NPR.
+
+30
+00:03:03,519 --> 00:03:12,822
+This episode, Lessons from a Drug Kingpin, first aired in 2011, and I hosted it with Alex Bloomberg, who went on to be something of a kingpin himself in the world of podcasting.
+
+31
+00:03:13,402 --> 00:03:14,102
+Okay, let's do it.
+
+32
+00:03:14,582 --> 00:03:23,845
+We have in front of us a pile of academic papers talking about the economics of illegal drugs, and they all arrive at a surprising conclusion.
+
+33
+00:03:23,865 --> 00:03:31,828
+The conclusion is this, when you make drugs illegal, you end up making drug dealers richer, and you increase the level of crime.
+
+34
+00:03:32,578 --> 00:03:42,009
+and you don't end up reducing drug use by that much, which we should remind people is the whole point of making drugs illegal, to stop people from using drugs and to lower the amount of crime.
+
+35
+00:03:42,330 --> 00:03:46,915
+So here we have these policies that are not doing what they're supposed to be doing, and let's lay out the theory of why that is.
+
+36
+00:03:47,075 --> 00:03:52,522
+Okay, so the economics of this are, when you make something illegal, you make it harder and riskier to produce.
+
+37
+00:03:53,062 --> 00:03:55,183
+In the case of drugs, you have to sneak them across the border.
+
+38
+00:03:55,503 --> 00:03:58,305
+You have to pay people more to transport them since they're facing jail time.
+
+39
+00:03:58,325 --> 00:04:01,907
+You have to hire armed guards to protect your supply.
+
+40
+00:04:02,047 --> 00:04:05,448
+There's all of these added costs, which simply drives up the price.
+
+41
+00:04:05,628 --> 00:04:10,251
+So illegal cocaine is many more times expensive than it would be if it were legal.
+
+42
+00:04:10,591 --> 00:04:12,612
+And any economist can tell you what happens next.
+
+43
+00:04:12,912 --> 00:04:14,273
+When the price of something goes up,
+
+44
+00:04:14,873 --> 00:04:16,173
+Surprise, fewer people buy it.
+
+45
+00:04:16,433 --> 00:04:17,234
+Take bananas.
+
+46
+00:04:17,514 --> 00:04:20,794
+If they were 500 bucks a bunch, no one would buy bananas.
+
+47
+00:04:21,354 --> 00:04:22,255
+But crack is different.
+
+48
+00:04:22,535 --> 00:04:27,196
+The demand is what they call inelastic, no matter what it costs people are willing to pay for it.
+
+49
+00:04:27,236 --> 00:04:27,976
+I mean, it's addictive.
+
+50
+00:04:28,336 --> 00:04:31,617
+So increasing the price just means that more money goes to drug dealers.
+
+51
+00:04:32,077 --> 00:04:39,598
+And to the criminal behavior they engage in, grabbing people, buying guns, threatening, hurting, or even killing people, that is the theory.
+
+52
+00:04:39,838 --> 00:04:41,599
+But one thing missing from these economic papers
+
+53
+00:04:42,497 --> 00:04:43,218
+actual drug dealers.
+
+54
+00:04:43,558 --> 00:04:45,479
+And this brings us to freeway Ricky Ross.
+
+55
+00:04:45,799 --> 00:04:53,744
+He started dealing cocaine in 1979, then he moved into crack, then he worked his way up to becoming one of the biggest crack dealers in LA.
+
+56
+00:04:54,105 --> 00:04:59,628
+He was arrested in 1996 and given a life sentence, but in 2009 he was given parole and released.
+
+57
+00:05:00,209 --> 00:05:05,212
+And we thought, here is a perfect person to run these economic theories by and see if they check out.
+
+58
+00:05:05,652 --> 00:05:05,992
+Let's do it.
+
+59
+00:05:06,112 --> 00:05:09,214
+Theory number one, making drugs illegal drives up the price.
+
+60
+00:05:09,615 --> 00:05:09,795
+Check.
+
+61
+00:05:10,275 --> 00:05:13,278
+The most I ever made in one day was $3 million, went through my hands.
+
+62
+00:05:13,598 --> 00:05:13,858
+Wow.
+
+63
+00:05:14,539 --> 00:05:16,120
+I could make off of a million bucks.
+
+64
+00:05:16,180 --> 00:05:20,263
+I could make anywhere from $400,000 to $200,000 profit.
+
+65
+00:05:20,724 --> 00:05:24,827
+It varied to who I was selling to and what time of the money it was.
+
+66
+00:05:24,867 --> 00:05:27,169
+You know, a lot of variables on how much I made.
+
+67
+00:05:27,229 --> 00:05:29,731
+If I was giving it to him on credit, stuff like that.
+
+68
+00:05:30,472 --> 00:05:35,456
+But I was sure to make $200,000 off of every million and sometimes I could make as much as $400,000.
+
+69
+00:05:35,736 --> 00:05:38,719
+Let me just ask you, like how much
+
+70
+00:05:39,535 --> 00:06:00,006
+of the cost of the drug that you were selling was because it was illegal i guess probably we maybe a thousand times uh... you can probably get a kilo of cocaine over in uh... columbia peru for maybe three hundred dollars or maybe even less than that you know if it wasn't illegal because maybe the former's probably would sell it for uh...
+
+71
+00:06:02,588 --> 00:06:05,930
+would have passed away ahead of lettuce, because it grows over there, you know, wild.
+
+72
+00:06:06,731 --> 00:06:09,633
+So, I mean, the price probably would drop dramatically.
+
+73
+00:06:10,014 --> 00:06:13,316
+You probably could get a kilo for what it cost to buy a pack of cigarettes.
+
+74
+00:06:15,198 --> 00:06:15,778
+Maybe cheaper.
+
+75
+00:06:16,038 --> 00:06:18,861
+Keep in mind, Rick bought his kilos of cocaine for $10,000.
+
+76
+00:06:19,701 --> 00:06:27,608
+All right, so next we ran another part of the theory by him, that at least some of the money he's getting is going to increased crime.
+
+77
+00:06:28,168 --> 00:06:29,089
+Again, check.
+
+78
+00:06:29,609 --> 00:06:30,890
+Well, I had a crew.
+
+79
+00:06:30,910 --> 00:06:33,272
+I had a crew of anywhere from 30 to 40 guys.
+
+80
+00:06:33,492 --> 00:06:41,038
+That varied too from what was going on, how good business was, how many rock houses I was running at the time.
+
+81
+00:06:41,499 --> 00:06:45,202
+You always had an appearance of toughness, and I did.
+
+82
+00:06:45,682 --> 00:06:49,205
+I had guys around me that were ruthless and were tough.
+
+83
+00:06:49,265 --> 00:06:51,306
+If I gave the word, they would hurt you.
+
+84
+00:06:52,387 --> 00:06:54,869
+How many guns did your operation have?
+
+85
+00:06:55,430 --> 00:06:56,070
+Who knows?
+
+86
+00:06:57,392 --> 00:07:03,096
+We bought guns regularly because guys would throw guns out the window when the cops get behind them and we lose guns all the time.
+
+87
+00:07:03,577 --> 00:07:11,023
+And it was mandatory when we're on the street, like if we had to park playing basketball, we had to be strapped.
+
+88
+00:07:11,753 --> 00:07:16,034
+Or if we had my tire shop where we sold drugs from, then we would have guns there.
+
+89
+00:07:16,394 --> 00:07:20,175
+Now, it's really amazing the level of expenses that a big time drug dealer has.
+
+90
+00:07:20,215 --> 00:07:22,176
+I mean, the drug money wouldn't just be for his crew.
+
+91
+00:07:22,556 --> 00:07:23,676
+He would spread it around.
+
+92
+00:07:23,716 --> 00:07:27,637
+I mean, his drug money would find its way into all sorts of other illicit activities in the neighborhood.
+
+93
+00:07:27,978 --> 00:07:31,318
+For instance, he had money that he just distributed to the big players around the hood.
+
+94
+00:07:31,859 --> 00:07:36,340
+You know, I had a fund also, you know, where I take care of what's called a big homies.
+
+95
+00:07:36,920 --> 00:07:42,381
+You know, these are the guys that, when I grew up, were the shot callers, the guys that ran the neighborhood.
+
+96
+00:07:42,921 --> 00:07:44,641
+And, you know, I took care of them.
+
+97
+00:07:44,881 --> 00:07:48,762
+In my neighborhood, anybody can get killed at any time.
+
+98
+00:07:49,482 --> 00:07:54,643
+And for me to walk around the streets the way I did would be dangerous for a lot of people.
+
+99
+00:07:54,703 --> 00:07:55,883
+Most people couldn't do what I did.
+
+100
+00:07:56,203 --> 00:08:04,505
+You know, they couldn't walk around South Central Los Angeles in the middle of Hoover, Crip Gang, or the Swines.
+
+101
+00:08:05,505 --> 00:08:11,650
+And live the way I live, you know, free and open, going to car washes, you know, they kidnap drug dealers in South Central.
+
+102
+00:08:12,251 --> 00:08:19,917
+And I had a special type of pass that most people don't get, and that's because of my good ties that I shared in my wealth.
+
+103
+00:08:20,448 --> 00:08:23,831
+So you basically, it was sort of like, you were paying protection money to these people, right?
+
+104
+00:08:23,991 --> 00:08:24,471
+Absolutely.
+
+105
+00:08:24,491 --> 00:08:28,614
+You can call it protection money, or big homie money, or whatever, but it's all the same thing.
+
+106
+00:08:29,035 --> 00:08:29,515
+Absolutely.
+
+107
+00:08:29,815 --> 00:08:32,958
+But it was money going to people who didn't sell drugs?
+
+108
+00:08:33,298 --> 00:08:33,998
+Who would be violent?
+
+109
+00:08:34,018 --> 00:08:34,719
+They were robbers.
+
+110
+00:08:35,119 --> 00:08:35,920
+They were robbers.
+
+111
+00:08:35,960 --> 00:08:36,881
+They were killers.
+
+112
+00:08:37,281 --> 00:08:38,442
+Jackers, as we call them.
+
+113
+00:08:38,962 --> 00:08:39,483
+Absolutely.
+
+114
+00:08:39,783 --> 00:08:41,164
+These guys didn't mind going to jail.
+
+115
+00:08:41,444 --> 00:08:42,965
+So clearly the academics are right here.
+
+116
+00:08:43,205 --> 00:08:48,970
+Drug money goes to crime, I guess that's not a big surprise, but not all of the money goes to crime and bribes and shady stuff.
+
+117
+00:08:49,270 --> 00:08:52,893
+For example, freeway Rick Ross owned a lot of real estate.
+
+118
+00:08:53,193 --> 00:08:55,715
+Crack houses, cook houses, places he stored his money.
+
+119
+00:08:56,076 --> 00:08:58,818
+There were other expenses, like a huge expense.
+
+120
+00:08:59,338 --> 00:09:05,022
+bail bondsmen, guys in his crew that he worked with would get picked up by the cops and he would need to make sure that they would stay loyal to him.
+
+121
+00:09:05,182 --> 00:09:07,443
+So he would do whatever it took to get them out of jail.
+
+122
+00:09:07,483 --> 00:09:09,965
+And of course, the criminal justice system knew that he was a big time drug dealer.
+
+123
+00:09:10,005 --> 00:09:12,726
+So they set these bond prices really, really high.
+
+124
+00:09:12,746 --> 00:09:13,667
+So that cost them a lot of money.
+
+125
+00:09:13,987 --> 00:09:14,187
+Yeah.
+
+126
+00:09:14,267 --> 00:09:19,030
+And another group of people who were profiting off of the big time drug dealer, lawyers.
+
+127
+00:09:19,351 --> 00:09:22,212
+He had lots of lawyers and they charged him a lot of money.
+
+128
+00:09:22,693 --> 00:09:26,255
+And they came into play when he would have these interesting disputes with the cops.
+
+129
+00:09:26,635 --> 00:09:39,922
+What happened is they had raided a couple places and there were large amounts of money and no drugs and they would confiscate the money and then we would go to court and the lawyers would get the money back and that really frustrated them.
+
+130
+00:09:40,470 --> 00:09:42,711
+Wait, so they would raid one of your houses.
+
+131
+00:09:43,051 --> 00:09:45,312
+There would be a whole bunch of money there, but there wouldn't be any drugs.
+
+132
+00:09:45,992 --> 00:09:50,094
+So you would actually go and say, I'm an honest businessman.
+
+133
+00:09:50,114 --> 00:09:50,894
+That was my money.
+
+134
+00:09:51,474 --> 00:09:52,594
+They have no right to take my money.
+
+135
+00:09:52,755 --> 00:09:53,295
+Absolutely.
+
+136
+00:09:54,035 --> 00:09:59,317
+I wouldn't go myself personally, but I had people in the system set up to where we could claim the money.
+
+137
+00:10:01,018 --> 00:10:02,898
+They fed in a house in South Central.
+
+138
+00:10:02,918 --> 00:10:03,098
+That's $400,000.
+
+139
+00:10:03,158 --> 00:10:05,539
+Wouldn't you naturally think that's drug money?
+
+140
+00:10:08,050 --> 00:10:09,774
+I mean, would you think that if it was Beverly Hills?
+
+141
+00:10:10,535 --> 00:10:11,016
+True enough.
+
+142
+00:10:11,697 --> 00:10:13,621
+And even if you think that, you have to prove it.
+
+143
+00:10:13,661 --> 00:10:15,225
+You know, in court, it's not what you think.
+
+144
+00:10:15,946 --> 00:10:16,788
+It's what you can prove.
+
+145
+00:10:17,148 --> 00:10:17,389
+Right.
+
+146
+00:10:17,649 --> 00:10:19,694
+And they couldn't prove that it was drug money, so you got it back.
+
+147
+00:10:20,138 --> 00:10:20,659
+Absolutely.
+
+148
+00:10:21,179 --> 00:10:22,601
+And they got frustrated with that.
+
+149
+00:10:22,701 --> 00:10:35,033
+So what they started doing is they started, when they come into the house, they would bring their own drugs and then they would plant drugs and that makes it tougher for you to come to court and say, you know, your honor, I had $400,000 in here and it's missing.
+
+150
+00:10:36,375 --> 00:10:38,076
+Because now it was two keys in there too.
+
+151
+00:10:38,917 --> 00:10:42,040
+So now you got to tell the judge, your honor, the keys ain't mine, but the money is.
+
+152
+00:10:43,962 --> 00:10:46,284
+I think that's, you know, a hard pitch.
+
+153
+00:10:46,525 --> 00:10:48,226
+So we have these quasi-legal expenses.
+
+154
+00:10:48,446 --> 00:10:52,590
+I mean, the money's going to people who probably pay taxes on it, lawyers and bail bondsmen.
+
+155
+00:10:53,011 --> 00:10:55,633
+But then there are the expenses that are sort of in between.
+
+156
+00:10:55,753 --> 00:10:59,357
+You know, they're under the table, but on the face, there's nothing illegal about these expenses.
+
+157
+00:10:59,777 --> 00:11:02,660
+You know, take all the cash that Ricky's making.
+
+158
+00:11:02,800 --> 00:11:04,782
+Every business just deposits it in their account.
+
+159
+00:11:05,022 --> 00:11:06,283
+Freeway Rick couldn't do that.
+
+160
+00:11:06,624 --> 00:11:07,484
+Account 3,400,000 can be time-consuming.
+
+161
+00:11:09,366 --> 00:11:10,226
+How did you count the money?
+
+162
+00:11:10,266 --> 00:11:11,607
+Who did you get to count the money?
+
+163
+00:11:12,127 --> 00:11:17,929
+Well, in the end, because money became a chore, so I hired a couple girls, and that was their job to count money all day.
+
+164
+00:11:18,309 --> 00:11:20,130
+That's another cost of something being illegal.
+
+165
+00:11:20,150 --> 00:11:23,811
+You have to hire people to count it, whereas if you just take it to a bank, you know... Absolutely.
+
+166
+00:11:23,831 --> 00:11:25,371
+And then you got to worry about if they're stealing.
+
+167
+00:11:25,611 --> 00:11:25,832
+Right.
+
+168
+00:11:26,512 --> 00:11:27,472
+Because it's underground.
+
+169
+00:11:29,973 --> 00:11:36,135
+So if you... Yeah, and you can't go and you can't file a claim against your underground drug money counters, if you think that's giving.
+
+170
+00:11:36,675 --> 00:11:44,420
+So even though he's paying these women and they're not explicitly doing anything illegal, like just counting money isn't illegal, but there is also a social cost even here.
+
+171
+00:11:44,680 --> 00:11:51,845
+In other words, these women are probably young, they're coming in, they're seeing this big time drug dealer, they think this is the way to make money going into drugs.
+
+172
+00:11:51,885 --> 00:11:56,328
+And that was of course also part of this, the social cost of what Rick was doing.
+
+173
+00:11:57,048 --> 00:12:10,939
+Aside from the fact that crack is incredibly addictive, it decimated interstitial communities, creating the idea that this is the only way out, this is the only way to get rich, that's also a big part of the social cost of drug dealing.
+
+174
+00:12:11,219 --> 00:12:21,467
+And we should say that as Rick is going through his internal dialogue about his own costs, he did not bring up a lot about the fact that this did devastate cities and he was partially responsible for it.
+
+175
+00:12:21,748 --> 00:12:21,888
+Right.
+
+176
+00:12:22,468 --> 00:12:27,201
+Although now he says on his website that he feels bad about that and he's trying to undo some of the damage that he caused.
+
+177
+00:12:27,957 --> 00:12:35,042
+Now, there are a couple of the academic theories, the economist theories though, that did not check out when we ran them by Freeway Rick.
+
+178
+00:12:35,362 --> 00:12:47,130
+For example, there's this one theory you see cited a lot in the literature that one of the factors that drives up the cost of drugs, you have to compensate people for the risk, the risk of going to jail, the risk of getting shot or killed.
+
+179
+00:12:47,530 --> 00:12:51,372
+So, you know, it's just generally people who have dangerous jobs tend to make more money.
+
+180
+00:12:51,573 --> 00:12:53,654
+Miners, people who work on fishing boats, you know,
+
+181
+00:12:53,994 --> 00:12:57,255
+fishing boats out in Alaska, you need to pay them more since what they're doing is so risky.
+
+182
+00:12:57,675 --> 00:13:01,196
+And the theory is that the same thing would apply to people in the drug trade.
+
+183
+00:13:01,636 --> 00:13:04,236
+But that theory, at least in Rick's case, did not check out.
+
+184
+00:13:04,696 --> 00:13:11,778
+Well, you know, first of all, when you come from where I was, when I started selling drugs, you know, you feel hopeless.
+
+185
+00:13:13,218 --> 00:13:20,059
+You don't think you're going to live past 24 years old, going to jail, come out with stripes.
+
+186
+00:13:21,820 --> 00:13:22,780
+Really wasn't any risk.
+
+187
+00:13:23,965 --> 00:13:27,946
+I mean, everything that I had going on at the time was nothing.
+
+188
+00:13:28,266 --> 00:13:30,627
+You know, I was like a lump on the log.
+
+189
+00:13:30,667 --> 00:13:39,869
+So the risk that most people would look at, I mean, you know, you could get killed, go to prison was okay.
+
+190
+00:13:41,510 --> 00:13:44,311
+So you didn't really think, you weren't thinking like, I'm taking a lot of risk here.
+
+191
+00:13:44,331 --> 00:13:45,391
+I have to get compensated.
+
+192
+00:13:46,483 --> 00:13:48,586
+No, no, I didn't really add.
+
+193
+00:13:48,646 --> 00:13:52,071
+I mean, the conversation was already enormous and overwhelming.
+
+194
+00:13:52,331 --> 00:13:54,154
+I couldn't believe that it paid so well.
+
+195
+00:13:55,195 --> 00:13:56,757
+You would have done it for a lot less is what you're saying.
+
+196
+00:13:57,158 --> 00:13:57,859
+Oh, absolutely.
+
+197
+00:14:01,391 --> 00:14:05,953
+Talking to Rick, we realized that there is something here that economists don't take into account.
+
+198
+00:14:06,614 --> 00:14:09,375
+There was this emotional component to the work that Rick was doing.
+
+199
+00:14:09,615 --> 00:14:15,218
+At least when you get to Rick's level, drug dealing is complicated, it's multifaceted, it's engaging.
+
+200
+00:14:15,578 --> 00:14:17,779
+Yeah, like Rick was basically a CEO.
+
+201
+00:14:17,839 --> 00:14:20,541
+He was a manager, he was a publicist, he was his own accountant.
+
+202
+00:14:20,901 --> 00:14:22,222
+He was even the head chemist.
+
+203
+00:14:22,882 --> 00:14:25,923
+So I'll just back up for a second here and look at this situation.
+
+204
+00:14:26,443 --> 00:14:30,905
+Society was doing everything it possibly could to make Ricky Ross's life miserable.
+
+205
+00:14:31,265 --> 00:14:32,446
+His product was illegal.
+
+206
+00:14:32,606 --> 00:14:34,486
+His costs were enormous as we've established.
+
+207
+00:14:34,867 --> 00:14:35,967
+He was a hunted man.
+
+208
+00:14:36,087 --> 00:14:37,188
+Literally a hunted man.
+
+209
+00:14:37,228 --> 00:14:41,489
+He said there was a police task force in LA devoted entirely to putting him in prison.
+
+210
+00:14:41,749 --> 00:14:47,772
+But despite all the money in the effort that the most powerful nation on earth was spending to make Rick Ross give up his job.
+
+211
+00:14:48,152 --> 00:14:48,672
+I loved it.
+
+212
+00:14:49,552 --> 00:14:50,893
+I felt like I was on top of the world.
+
+213
+00:14:50,913 --> 00:14:51,894
+I felt I was powerful.
+
+214
+00:14:52,314 --> 00:14:53,175
+I felt I had came.
+
+215
+00:14:53,195 --> 00:14:54,936
+I didn't have to answer to nobody.
+
+216
+00:14:57,297 --> 00:14:58,178
+I mean, it was a dream.
+
+217
+00:14:58,238 --> 00:15:00,820
+It was every man's dream to be free.
+
+218
+00:15:02,481 --> 00:15:03,061
+Did you miss it?
+
+219
+00:15:04,623 --> 00:15:05,343
+Oh, absolutely.
+
+220
+00:15:06,184 --> 00:15:06,744
+Absolutely.
+
+221
+00:15:08,705 --> 00:15:11,387
+I'd rather be doing that than anything else almost.
+
+222
+00:15:11,828 --> 00:15:15,070
+Everything else became almost like secondary to my work.
+
+223
+00:15:17,322 --> 00:15:17,782
+You know, it's funny.
+
+224
+00:15:17,802 --> 00:15:20,624
+You were talking about how, how great it was for a while.
+
+225
+00:15:20,664 --> 00:15:23,506
+And one of the words you used was, was the freedom of it.
+
+226
+00:15:23,947 --> 00:15:28,870
+And yet when you describe this in detail, I'm not, I'm not, I'm not hearing a lot of freedom.
+
+227
+00:15:28,910 --> 00:15:33,334
+You had this task force and people are at the kill you and spotters and you're sneaking around the middle of the night.
+
+228
+00:15:33,514 --> 00:15:35,135
+You have to be up at two 30 every morning.
+
+229
+00:15:35,215 --> 00:15:36,956
+You're moving houses back and forth.
+
+230
+00:15:36,996 --> 00:15:40,659
+This didn't sound, this sounds like a man who has very little freedom in his life.
+
+231
+00:15:41,239 --> 00:15:41,760
+Well, you know what?
+
+232
+00:15:41,800 --> 00:15:44,662
+When you look at it from, from, from that angle, it is.
+
+233
+00:15:45,338 --> 00:15:51,043
+But when you look at it from where I came from, then I felt like I had all the freedom in the world.
+
+234
+00:15:51,744 --> 00:15:58,650
+How much of it was just sort of like the actual job and how much of it was just the feeling of being good at something and running this enterprise well?
+
+235
+00:15:58,990 --> 00:16:01,372
+Well, you love the feeling that you're good.
+
+236
+00:16:01,733 --> 00:16:06,397
+So it didn't feel like it was a burden to sneak around at night.
+
+237
+00:16:06,957 --> 00:16:13,619
+I've been sneaking around at night since I was, you know, 17 years old, still in cars, you know.
+
+238
+00:16:14,319 --> 00:16:22,941
+So this it became, it's like when you saying that it's not freedom, but from where I come from, this is the way of life.
+
+239
+00:16:23,501 --> 00:16:24,461
+This is the way we live.
+
+240
+00:16:24,521 --> 00:16:26,782
+It's nothing wrong with living like that, sneaking around at night.
+
+241
+00:16:29,242 --> 00:16:30,743
+You know, we've been hiding all our life.
+
+242
+00:16:31,203 --> 00:16:35,244
+So, Robert, one question remains at the end of our journey here with the freeway rick.
+
+243
+00:16:35,484 --> 00:16:36,244
+What does this all mean?
+
+244
+00:16:36,264 --> 00:16:39,725
+I mean, are we saying we should be legalizing crack?
+
+245
+00:16:40,385 --> 00:16:46,406
+I mean, if we really did want to make the freeway ricks of the world go away, we would take away the earning potential, I guess, right?
+
+246
+00:16:46,426 --> 00:16:48,606
+Yeah, by legalizing drugs and dropping the price.
+
+247
+00:16:49,027 --> 00:16:50,627
+And some of the economists we spoke to said,
+
+248
+00:16:51,247 --> 00:16:52,008
+Yeah, of course.
+
+249
+00:16:52,288 --> 00:16:54,110
+Making it illegal makes dealers richer.
+
+250
+00:16:54,270 --> 00:16:58,053
+It creates more violence and crime and doesn't do that much to drive down demand.
+
+251
+00:16:58,333 --> 00:16:59,715
+So clearly legalize it.
+
+252
+00:17:00,215 --> 00:17:02,157
+Other economists, though, they weren't so sure.
+
+253
+00:17:02,337 --> 00:17:05,640
+Peter Reuter has written a book about the illegal drug market.
+
+254
+00:17:05,900 --> 00:17:07,481
+He's written many, many papers.
+
+255
+00:17:07,802 --> 00:17:09,904
+He is a big expert in this field.
+
+256
+00:17:10,204 --> 00:17:10,584
+And he says,
+
+257
+00:17:11,665 --> 00:17:14,928
+Legalizing something like crack, there would definitely be trade-offs.
+
+258
+00:17:15,468 --> 00:17:17,590
+Legalization would dramatically reduce crime.
+
+259
+00:17:18,631 --> 00:17:35,505
+Obviously, the drug market crime would disappear and many drug-related crimes where it's sort of in the business economic compulsive crimes, that is crimes committed in order to pay for expensive illegal drugs, that would go down a lot too.
+
+260
+00:17:36,887 --> 00:17:38,108
+What goes on the other side?
+
+261
+00:17:39,040 --> 00:17:40,782
+I'm making up the number here.
+
+262
+00:17:40,802 --> 00:17:42,363
+5 million more persons addicted.
+
+263
+00:17:42,844 --> 00:17:43,645
+That's a big number.
+
+264
+00:17:44,666 --> 00:17:49,610
+How do we compare the bad outcomes in the two cases?
+
+265
+00:17:50,391 --> 00:17:54,876
+A very large increase in addiction with a very large decrease in crime.
+
+266
+00:17:54,896 --> 00:18:01,322
+I take them both to be real, but I don't know how that's a value judgment.
+
+267
+00:18:01,582 --> 00:18:02,462
+How do you, which is better?
+
+268
+00:18:02,642 --> 00:18:03,202
+Which is better?
+
+269
+00:18:03,222 --> 00:18:04,183
+Yeah, yeah.
+
+270
+00:18:04,203 --> 00:18:05,243
+Right.
+
+271
+00:18:06,043 --> 00:18:09,724
+And as for Rick, when it comes to the legalization, it's complicated for him.
+
+272
+00:18:10,024 --> 00:18:14,126
+A lot of the reason Rick says he got into drugs in the first place was because he was illiterate.
+
+273
+00:18:14,526 --> 00:18:15,326
+And I mean, think about that.
+
+274
+00:18:15,526 --> 00:18:20,327
+Everything we've just heard, he ran a multi-million dollar business empire without being able to read and write.
+
+275
+00:18:20,768 --> 00:18:22,048
+He learned to read and write in prison.
+
+276
+00:18:22,768 --> 00:18:28,652
+And his basic take is, and a lot of academics would agree with him by the way, you need to attack the demand side of this equation.
+
+277
+00:18:28,892 --> 00:18:32,915
+Try and reduce the reasons people want to use and sell crack in the first place.
+
+278
+00:18:33,435 --> 00:18:37,838
+So that would mean addressing the desperation that drives people to become addicts or to drive them to become dealers.
+
+279
+00:18:38,378 --> 00:18:39,579
+And that is Rick's new job.
+
+280
+00:18:39,599 --> 00:18:43,621
+Since getting out of prison, he now travels around and talks to youth groups and schools.
+
+281
+00:18:44,162 --> 00:18:45,242
+Anybody will have them basically.
+
+282
+00:18:45,302 --> 00:18:49,065
+And he lays out the other side of this economic equation that you're in when you're a drug dealer.
+
+283
+00:18:49,585 --> 00:18:51,747
+which is it's hard to retire as a drug dealer.
+
+284
+00:18:51,927 --> 00:18:57,251
+You get shot or you go to prison, and once you go to prison, everything you've made, all the money you've made, it's gone.
+
+285
+00:18:57,271 --> 00:19:06,058
+A multi-million dollar business that you've spent years and years building, developing expertise in, developing your connoisseurship for cocaine can all be gone in a second.
+
+286
+00:19:10,301 --> 00:19:18,668
+After the break, we will bring in our summer school economists and we'll discuss what Ricky Ross, freeway Ricky Ross, can teach any entrepreneur about how to run a business.
+
+287
+00:19:21,148 --> 00:19:25,269
+Support for this NPR podcast and the following message come from Stamps.com.
+
+288
+00:19:25,709 --> 00:19:28,370
+These days, we need to be smart about how we do business.
+
+289
+00:19:28,730 --> 00:19:33,991
+Stamps.com brings all the mailing and shipping services you need to keep your business running right to your computer.
+
+290
+00:19:34,391 --> 00:19:39,412
+Print postage and shipping labels on demand from your home or office and save five cents on every stamp.
+
+291
+00:19:39,632 --> 00:19:43,933
+End up to 62% off shipping rates from both the USPS and UPS.
+
+292
+00:19:44,453 --> 00:19:51,015
+Go to Stamps.com today to start a four-week trial plus free postage and a digital scale with promo code PlanetMoney.
+
+293
+00:19:53,557 --> 00:19:58,680
+Don't miss the national conversation with me, Jen White, every weekday on NPR's 1A.
+
+294
+00:20:01,301 --> 00:20:04,363
+News, views and insight for the relentlessly curious.
+
+295
+00:20:04,784 --> 00:20:08,986
+A space for those willing to share what they know and ready to hear the other side of the story.
+
+296
+00:20:09,467 --> 00:20:11,468
+Subscribe to 1A Now and leave a review.
+
+297
+00:20:15,883 --> 00:20:20,867
+We are back with Planet Money Summer School, class number three, Profit and Cocaine.
+
+298
+00:20:21,407 --> 00:20:27,732
+And listening along with us are certified famous economists Betsy Stevenson and Justin Wolfers from the University of Michigan.
+
+299
+00:20:27,852 --> 00:20:28,273
+Hi.
+
+300
+00:20:28,433 --> 00:20:28,693
+Hey.
+
+301
+00:20:28,853 --> 00:20:31,815
+So is Rick Ross, is he in a good business?
+
+302
+00:20:32,115 --> 00:20:36,359
+Like is this the kind of situation that businesses dream about being in?
+
+303
+00:20:36,899 --> 00:20:43,084
+Rick Ross is a good economist and that he is selling a product
+
+304
+00:20:44,377 --> 00:20:47,058
+that has a characteristic economists call inelastic.
+
+305
+00:20:47,978 --> 00:20:51,379
+When there's inelastic demand for something people keep buying it even when the price rises.
+
+306
+00:20:51,999 --> 00:20:54,100
+So therefore the cops are boosting his bottom line.
+
+307
+00:20:54,400 --> 00:21:00,081
+We should make sure we clearly define our vocabulary words here, inelastic demand.
+
+308
+00:21:00,301 --> 00:21:02,302
+When we talked about demand last week,
+
+309
+00:21:03,063 --> 00:21:07,146
+We said that for most products, when the price goes up, people buy less of the products.
+
+310
+00:21:07,226 --> 00:21:17,635
+But there are a few products where there's not an easy substitute so that when the price goes up, people may buy a little less of it, but they will keep buying the product in elastic demand.
+
+311
+00:21:18,235 --> 00:21:19,016
+That's exactly right.
+
+312
+00:21:19,396 --> 00:21:23,940
+The amount by which high prices scare people away is not very much.
+
+313
+00:21:24,320 --> 00:21:25,361
+That's what inelastic means.
+
+314
+00:21:25,814 --> 00:21:31,578
+And if you can find something with inelastic demand, I mean, that is a very good business opportunity.
+
+315
+00:21:31,838 --> 00:21:38,482
+That's the good news for Mr. Ross, which is he can bump up his price of a fair bit and he's not going to lose many customers.
+
+316
+00:21:39,323 --> 00:21:42,204
+And there's a different addictive substance that you talk about in your textbook.
+
+317
+00:21:43,445 --> 00:21:43,946
+Coffee.
+
+318
+00:21:44,326 --> 00:21:44,926
+Coffee.
+
+319
+00:21:45,366 --> 00:21:45,827
+Coffee.
+
+320
+00:21:47,108 --> 00:21:53,492
+And so coffee, some of us are in fact addicted and there are some national chains.
+
+321
+00:21:54,431 --> 00:21:58,713
+that jack the price up and charge $4 for a venti latte.
+
+322
+00:21:59,573 --> 00:22:04,415
+And that is taking advantage of my inelastic demand for coffee.
+
+323
+00:22:05,175 --> 00:22:15,839
+But this was a big insight of Howard Schultz and Starbucks because 20 years ago, coffee did feel like this substance with an elastic demand.
+
+324
+00:22:15,899 --> 00:22:16,900
+Like it was cheap.
+
+325
+00:22:16,940 --> 00:22:17,800
+You could get it anywhere.
+
+326
+00:22:17,860 --> 00:22:20,441
+It was generally kind of bad coffee.
+
+327
+00:22:20,981 --> 00:22:22,302
+Nobody seemed to care that much.
+
+328
+00:22:22,835 --> 00:22:26,537
+Right, but this comes to this idea of substitutability.
+
+329
+00:22:27,117 --> 00:22:33,399
+Back then, when all coffee tasted terrible, there wasn't much of a difference between two different cups of coffee.
+
+330
+00:22:33,519 --> 00:22:39,042
+So why would you pay more for the coffee at one diner versus the coffee at another diner?
+
+331
+00:22:39,702 --> 00:22:43,903
+Coffee was treated almost the way we think about gasoline at different stations.
+
+332
+00:22:44,323 --> 00:22:50,825
+So if you have the price of gas is much higher at a station across the street, then why would you buy from them?
+
+333
+00:22:51,005 --> 00:22:54,866
+The gas between the two stations, it's going to fuel your car the same.
+
+334
+00:22:55,406 --> 00:23:00,408
+Well, people used to think coffee, the two different cups of coffee, they're going to fuel my body the same.
+
+335
+00:23:01,088 --> 00:23:08,410
+And the insight that Howard Schultz had was maybe there are actually some important product differences across coffee.
+
+336
+00:23:08,910 --> 00:23:18,573
+He's also creating caffeine addictions, the greater those caffeine addictions, the more inelastic people's demand, and therefore the greater is his ability to raise prices.
+
+337
+00:23:19,454 --> 00:23:26,096
+It's really important to Howard that you don't just want one coffee a day, that you need three and you need him no matter what the price.
+
+338
+00:23:26,876 --> 00:23:32,238
+Which, if we're going to tell business stories, is also similar to Apple and the iPhone.
+
+339
+00:23:32,278 --> 00:23:32,778
+There are
+
+340
+00:23:33,418 --> 00:23:50,570
+substitutes but they've worked very hard to make you think if you're an apple phone user that that is a special object of which there is no substitute and which apparently you will spend hundreds and hundreds and hundreds of dollars on one of my kids smashed my iphone yesterday.
+
+341
+00:23:51,410 --> 00:23:56,233
+And I just tried to buy an Android and Betty is yelling at me that I can't possibly do it.
+
+342
+00:23:56,393 --> 00:23:58,754
+And I think she is something of an Apple addict.
+
+343
+00:23:59,294 --> 00:24:06,798
+And I did try to point out that at the price of $1,000 for a phone, that perhaps her demand was a little too inelastic.
+
+344
+00:24:06,938 --> 00:24:09,400
+And maybe I should try one of the lower priced alternatives.
+
+345
+00:24:09,600 --> 00:24:12,961
+You did just hit on an actual debate in our household.
+
+346
+00:24:13,062 --> 00:24:15,223
+But it's also something Apple does this consciously.
+
+347
+00:24:15,363 --> 00:24:16,523
+It's absolutely the case.
+
+348
+00:24:16,864 --> 00:24:18,945
+It could make its product more useful.
+
+349
+00:24:19,965 --> 00:24:28,112
+if it had an iMessage work with Android phones, but it would make an Android phone a closer substitute for an iPhone.
+
+350
+00:24:28,392 --> 00:24:41,403
+I did think with Rick Ross, because he goes through this whole thing about, oh, his profit and the inelasticity and how much money he makes and the cost of supplies and everything.
+
+351
+00:24:41,863 --> 00:24:46,727
+And you listen to it, you're like, well, why wouldn't everyone be in this business?
+
+352
+00:24:46,767 --> 00:24:47,788
+This is a great
+
+353
+00:24:48,642 --> 00:24:50,083
+great business to be at.
+
+354
+00:24:50,303 --> 00:24:52,184
+You are aware we put drug dealers in prison.
+
+355
+00:24:53,445 --> 00:24:55,666
+And that's a pretty bad lifestyle choice.
+
+356
+00:24:57,167 --> 00:25:01,310
+There's another important concept here, which is what economists call barriers to entry.
+
+357
+00:25:01,890 --> 00:25:02,290
+You're right.
+
+358
+00:25:02,650 --> 00:25:04,271
+It sounds like Rick Ross was earning a lot of money.
+
+359
+00:25:04,652 --> 00:25:08,134
+And so, Robert, maybe you and I should go and start our own drug dealing business.
+
+360
+00:25:08,854 --> 00:25:17,996
+But I bet if we went to Rick Ross's corner and started trying to compete against him, it's not that he try and compete with us by lowering the price, he try and run us out of town using violence.
+
+361
+00:25:19,117 --> 00:25:23,138
+So there are barriers to entering that market that keep competitors away.
+
+362
+00:25:23,438 --> 00:25:25,758
+Which is also the sign of a good business to be in.
+
+363
+00:25:26,058 --> 00:25:26,539
+Absolutely.
+
+364
+00:25:27,279 --> 00:25:31,840
+And businesses repeatedly try to make it difficult for new companies to enter and compete against them.
+
+365
+00:25:32,000 --> 00:25:36,543
+And this actually explains a lot about how successful businesses work these days.
+
+366
+00:25:36,663 --> 00:25:48,071
+I mean, companies may not use guns to defend themselves, but they use lawyers and regulations and lobbying to make sure that no one else is competing with them on the opposite corner.
+
+367
+00:25:48,591 --> 00:25:52,754
+And in a lot of sectors of the economy, this is one of the main ways people compete.
+
+368
+00:25:53,154 --> 00:25:53,634
+Absolutely.
+
+369
+00:25:53,854 --> 00:25:55,875
+They'd rather not compete in terms of prices.
+
+370
+00:25:56,095 --> 00:26:02,976
+What they want to do is compete in terms of constructing higher and higher barriers to entry, making it more and more difficult for newcomers to come in.
+
+371
+00:26:03,116 --> 00:26:06,837
+So I'm thinking cable companies, car dealers, beer distributors?
+
+372
+00:26:07,477 --> 00:26:15,319
+So they're running off to the government in their lobbying like hell saying, look, what we're distributing is so dangerous, you wouldn't want to let anyone else do it.
+
+373
+00:26:15,659 --> 00:26:17,639
+but also doctors and hairdressers too.
+
+374
+00:26:17,659 --> 00:26:19,660
+Like, do not try and compete with hairdressers.
+
+375
+00:26:19,920 --> 00:26:21,720
+My favorite is interior decorators.
+
+376
+00:26:22,321 --> 00:26:22,581
+Really?
+
+377
+00:26:22,601 --> 00:26:29,222
+In Florida, you have to get a license to become an interior decorator because a misplaced throw cushion could cause any amount of damage.
+
+378
+00:26:29,842 --> 00:26:31,543
+Freeway Ricky Ross would be proud.
+
+379
+00:26:32,643 --> 00:26:37,104
+He would be, and honestly, he's in the same business as some Florida interior decorators.
+
+380
+00:26:37,724 --> 00:26:42,666
+So our assignment this week is to find a product that you think has inelastic demand.
+
+381
+00:26:43,306 --> 00:26:43,966
+And tell us why.
+
+382
+00:26:44,646 --> 00:26:45,647
+Are there no substitutes?
+
+383
+00:26:46,027 --> 00:26:47,188
+How much would you pay for it?
+
+384
+00:26:47,208 --> 00:26:48,128
+Would you pay anything for it?
+
+385
+00:26:48,769 --> 00:26:53,811
+And if this is a brand name product, maybe there's a reason that this product doesn't have competitors, barriers to entry.
+
+386
+00:26:54,752 --> 00:26:57,093
+Thank you very much, Jetsy.
+
+387
+00:26:57,253 --> 00:26:58,774
+I think I tried to move your names together.
+
+388
+00:26:58,954 --> 00:27:01,196
+Jetsy, we'll answer the Jetsy.
+
+389
+00:27:01,476 --> 00:27:04,037
+Jetsy, thank you so much, Justin, to Betsy.
+
+390
+00:27:04,077 --> 00:27:04,538
+Thanks, Robert.
+
+391
+00:27:06,726 --> 00:27:10,147
+All right, students, let us know what you came up with from our assignment this week.
+
+392
+00:27:10,628 --> 00:27:14,289
+Are there addictive products with inelastic demand that we have not thought of?
+
+393
+00:27:14,809 --> 00:27:26,054
+Send your stories to PlanetMoney at npr.org or you can find us on Facebook, Instagram, Twitter, and we're doing special TikToks, reinforcing the economic lessons from summer school on the TikTok app.
+
+394
+00:27:26,454 --> 00:27:27,275
+We're at PlanetMoney.
+
+395
+00:27:27,975 --> 00:27:35,016
+Today's class was produced by Lauren Hodges with help from James Snead, Darian Woods, Alexi Horowitz-Gazi, Nick Fountain, and Liza Yeager.
+
+396
+00:27:35,516 --> 00:27:37,457
+Our sound design was from Isaac Rodriguez.
+
+397
+00:27:37,797 --> 00:27:39,157
+It was edited by Alex Goldmark.
+
+398
+00:27:39,857 --> 00:27:46,898
+If, like me, you can't get enough of Betsy Stevenson and Justin Wolfers, later this summer they're releasing an audio course on the Hamalaya app.
+
+399
+00:27:47,178 --> 00:27:48,719
+It's called Think Like an Economist.
+
+400
+00:27:49,299 --> 00:27:53,560
+Remember, everyone, it is never too early to start studying for the test.
+
+401
+00:27:54,380 --> 00:27:55,540
+I love it when professors say that.
+
+402
+00:27:56,302 --> 00:27:56,891
+I'm Robert Smith.
+
+403
+00:27:57,033 --> 00:27:57,866
+This is NPR.
+
+404
+00:27:58,353 --> 00:27:59,002
+Thanks for listening.
+

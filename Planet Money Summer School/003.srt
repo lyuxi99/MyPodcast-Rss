@@ -1,0 +1,1636 @@
+1
+00:00:00,875 --> 00:00:01,495
+Okay, everyone.
+
+2
+00:00:03,296 --> 00:00:07,899
+Okay, everyone, this is NPR, phones down, eyes forward.
+
+3
+00:00:15,323 --> 00:00:21,506
+Hello and welcome to Planet Money Summer School, the sweetest course in economics since that failed lemonade stand you had as a kid.
+
+4
+00:00:22,106 --> 00:00:25,208
+This is class number two, markets and pickles.
+
+5
+00:00:26,379 --> 00:00:26,979
+I'm Robert Smith.
+
+6
+00:00:27,439 --> 00:00:33,561
+Every Wednesday till Labor Day, we are meeting here in your ears to learn the essential principles of ECON 101.
+
+7
+00:00:34,662 --> 00:00:44,205
+And if you pay attention and pass our final exam, we'll put your name on a summer school diploma that lawyers tell me is in no way to be considered a diploma.
+
+8
+00:00:44,985 --> 00:00:54,328
+Hopefully you've spent the last week after class one thinking like an economist, waving your hand at past decisions and saying, sunk costs, get thee behind me.
+
+9
+00:00:55,218 --> 00:00:59,580
+Today, we are going to hear about how markets pop up in the most unlikely places.
+
+10
+00:00:59,820 --> 00:01:01,201
+Those are the most exciting places.
+
+11
+00:01:01,221 --> 00:01:03,302
+I can't wait to get looking for them.
+
+12
+00:01:03,702 --> 00:01:10,446
+Listening along with us are professors extraordinaire from the University of Michigan, Justin Wolfers and Betsy Stevenson.
+
+13
+00:01:10,486 --> 00:01:10,686
+Hey.
+
+14
+00:01:11,006 --> 00:01:11,146
+Hey.
+
+15
+00:01:11,746 --> 00:01:11,786
+Hi.
+
+16
+00:01:11,947 --> 00:01:12,487
+Good to be here, mate.
+
+17
+00:01:12,747 --> 00:01:19,430
+Today's show is about how individuals with very different needs and priorities get what they want through the magic of markets.
+
+18
+00:01:20,031 --> 00:01:24,173
+And in a market, there is this constant dance between supply and demand.
+
+19
+00:01:24,813 --> 00:01:27,015
+If you know one thing about Econ, it is probably this.
+
+20
+00:01:27,075 --> 00:01:34,601
+There is an equilibrium, a price where the supply of a product or service meets the demand for that product or service.
+
+21
+00:01:35,441 --> 00:01:43,328
+And I know we promise no charts and graphs for summer school, but just this once, we're going to do an audio chart with our voices.
+
+22
+00:01:44,128 --> 00:01:48,632
+Justin, Justin will be supply, which goes up as the price increases.
+
+23
+00:01:51,753 --> 00:01:56,654
+And what you heard there was the excitement that I have as a producer when there's a really high price.
+
+24
+00:01:56,894 --> 00:01:59,875
+That excitement leads me to want to produce more and more.
+
+25
+00:02:00,355 --> 00:02:01,075
+That's supply.
+
+26
+00:02:01,355 --> 00:02:03,296
+Betsy, how did you demand?
+
+27
+00:02:03,896 --> 00:02:07,377
+Betsy's giving me the glare that says, you know, I have a PhD.
+
+28
+00:02:13,978 --> 00:02:19,059
+So prices are going up and as the prices are going up, the demand is falling.
+
+29
+00:02:19,519 --> 00:02:20,720
+And so if supply goes up,
+
+30
+00:02:22,263 --> 00:02:28,246
+And the man goes down, hmm, there's some note where they both meet and they hold that note.
+
+31
+00:02:28,546 --> 00:02:34,969
+All right, I want everyone to keep that note of market balance in your mind as we listen to a story.
+
+32
+00:02:35,509 --> 00:02:39,791
+Every week on summer school, we're gonna play you part of an episode that we found in our archives.
+
+33
+00:02:40,292 --> 00:02:45,214
+And then afterwards, we're gonna get back together with our economists and discuss the economic theories behind it.
+
+34
+00:02:45,554 --> 00:02:49,116
+Today, we'd like you to listen to a story of a market that was out of balance.
+
+35
+00:02:49,236 --> 00:02:51,097
+No one was getting what they wanted.
+
+36
+00:02:51,897 --> 00:02:53,900
+until someone figured out how to reorganize it.
+
+37
+00:02:54,240 --> 00:03:01,369
+It was originally on our feedback in 2015, and it was called The Pickle Problem, hosted by Jacob Goldstein and Stacy Vanick-Smith.
+
+38
+00:03:01,989 --> 00:03:06,355
+It's about 16 minutes long, and we will meet you back right here after it's done.
+
+39
+00:03:12,331 --> 00:03:18,435
+About 10 years ago, Susanna Morgan was running a food bank in Alaska, and she really needed fresh produce.
+
+40
+00:03:18,875 --> 00:03:19,716
+She always did.
+
+41
+00:03:20,356 --> 00:03:21,457
+One day, the phone rang.
+
+42
+00:03:21,617 --> 00:03:24,819
+It was this big national charity called Feeding America.
+
+43
+00:03:25,139 --> 00:03:29,262
+Feeding America is this network of food banks all around the country, including Susanna's.
+
+44
+00:03:29,582 --> 00:03:33,625
+And what they do is they get these big donations of food, and they figure out where they should go.
+
+45
+00:03:34,205 --> 00:03:36,307
+On this call, they said they had a big donation for her.
+
+46
+00:03:36,667 --> 00:03:37,708
+It was not fresh produce.
+
+47
+00:03:38,108 --> 00:03:40,910
+It was a truckload of five gallon buckets of pickles.
+
+48
+00:03:41,190 --> 00:03:43,631
+You're kidding me, you're offering me pickles?
+
+49
+00:03:46,191 --> 00:03:52,253
+And the feeding American person who said, yeah, I know, I know, I know, but you guys have been hanging out there at the top of the list for quite a while.
+
+50
+00:03:52,313 --> 00:03:56,034
+And this is the first thing we've had that we think we'll really make it all the way to Alaska.
+
+51
+00:03:56,495 --> 00:03:57,515
+And what did you do with them?
+
+52
+00:03:58,235 --> 00:04:02,916
+We strong armed every soup kitchen we could find into taking pickles.
+
+53
+00:04:05,097 --> 00:04:08,919
+Susanna would ask the people from Feeding America, why aren't we getting more fresh produce?
+
+54
+00:04:09,179 --> 00:04:16,403
+Feeding America would say, well, we didn't offer you that truckload of oranges out of California because we thought the transportation would be too expensive.
+
+55
+00:04:16,483 --> 00:04:18,063
+And I would say, ah!
+
+56
+00:04:18,584 --> 00:04:19,324
+That scream there?
+
+57
+00:04:19,544 --> 00:04:28,488
+That's because Susanna had set up her own transportation system so that if Feeding America had offered her fresh fruits or vegetables, she could get them trucked to Alaska really cheaply.
+
+58
+00:04:28,809 --> 00:04:31,630
+But the people at the Feeding America Home Office didn't know that.
+
+59
+00:04:31,950 --> 00:04:33,873
+And a lot of food banks had this problem.
+
+60
+00:04:34,213 --> 00:04:39,281
+One food bank director in Idaho, my home state, complained that he got a truckload of potatoes.
+
+61
+00:04:39,741 --> 00:04:41,063
+I mean, come on, it's Idaho.
+
+62
+00:04:41,183 --> 00:04:45,610
+Of course, he already had a warehouse full of potatoes that had been donated by local farmers.
+
+63
+00:04:46,115 --> 00:04:50,058
+This system had real consequences for hungry people all over the country.
+
+64
+00:04:50,439 --> 00:04:53,641
+It meant that people in Alaska were not getting fresh produce.
+
+65
+00:04:53,661 --> 00:04:55,143
+We're not getting, say, potatoes.
+
+66
+00:04:55,643 --> 00:04:59,747
+And at the same time, the food bank in Idaho had too many potatoes and not enough other stuff.
+
+67
+00:04:59,947 --> 00:05:01,268
+Everybody knew this was a problem.
+
+68
+00:05:01,548 --> 00:05:03,690
+But for a long time, they just slipped with it.
+
+69
+00:05:04,250 --> 00:05:07,793
+And then, Susanna says, a new CEO came into feeding America.
+
+70
+00:05:08,294 --> 00:05:11,096
+And as usual, what happens when you bring in a pair of fresh eyes?
+
+71
+00:05:11,156 --> 00:05:12,537
+They look at something and say, hmm.
+
+72
+00:05:13,943 --> 00:05:16,664
+I can't imagine why you guys are living with that system that sucks.
+
+73
+00:05:19,566 --> 00:05:20,826
+Hello and welcome to Planet Money.
+
+74
+00:05:20,907 --> 00:05:21,707
+I'm Jacob Goldstein.
+
+75
+00:05:21,987 --> 00:05:23,208
+And I'm Stacy Vanick-Smith.
+
+76
+00:05:23,448 --> 00:05:31,452
+Today on the show, how a bunch of food bank directors, including at least one socialist, tried to figure out a better way to get food to hungry people.
+
+77
+00:05:32,052 --> 00:05:33,173
+Their bold experiment?
+
+78
+00:05:33,733 --> 00:05:34,473
+The free market.
+
+79
+00:05:35,214 --> 00:05:36,494
+Sort of free, anyway.
+
+80
+00:05:36,875 --> 00:05:37,655
+Definitely a market.
+
+81
+00:05:42,164 --> 00:05:46,048
+This message comes from NPR sponsor, Western Governors University.
+
+82
+00:05:46,608 --> 00:05:53,235
+WGU offers online bachelor's and master's degrees in business, IT, education, and nursing.
+
+83
+00:05:53,495 --> 00:05:59,701
+Their innovative competency-based learning model was designed specifically to fit the lives of busy adults.
+
+84
+00:06:00,021 --> 00:06:09,950
+With WGU, you can move through the material you already know and spend time learning what you don't, which means the faster you demonstrate what you know, the faster you finish.
+
+85
+00:06:10,270 --> 00:06:14,814
+Learn more by visiting wgu.edu slash planetmoney.
+
+86
+00:06:15,895 --> 00:06:19,038
+What does it mean to be the only person who looks like you at your place of work?
+
+87
+00:06:19,879 --> 00:06:26,825
+I was the first Latina in the newsroom at NPR ever to step foot who wasn't cleaning it.
+
+88
+00:06:27,288 --> 00:06:31,673
+We discussed the reckoning over race taking place in newsrooms across the country.
+
+89
+00:06:32,313 --> 00:06:35,276
+Listen and subscribe now to It's Been a Minute from NPR.
+
+90
+00:06:50,747 --> 00:06:59,170
+Susanna and the other food bank directors start flying to Chicago every few months, sitting down in a room and talking about their own version of the pickle problem.
+
+91
+00:06:59,810 --> 00:07:02,371
+And pretty soon, Susanna says, they get to the heart of it.
+
+92
+00:07:02,811 --> 00:07:06,032
+It is a problem for someone else to make decisions for you.
+
+93
+00:07:06,572 --> 00:07:06,832
+Right?
+
+94
+00:07:07,313 --> 00:07:13,799
+It is a problem if somebody else is trying to decide whether this is something you need or not when they don't know what's in your inventory.
+
+95
+00:07:14,160 --> 00:07:16,302
+They don't know what your local donation supply is.
+
+96
+00:07:16,402 --> 00:07:21,427
+They don't know what donated transportation you've arranged for or what your fundraising is at the moment.
+
+97
+00:07:21,847 --> 00:07:29,930
+So to have a central office trying to make those decisions far away from those sources of knowledge led to all sorts of mismatches.
+
+98
+00:07:30,310 --> 00:07:36,333
+When the economists in the room heard Susanna and her colleagues lay out the problem this way, they got very excited.
+
+99
+00:07:36,813 --> 00:07:40,754
+Susanna remembers one economist in particular named Candace Prendagrest.
+
+100
+00:07:41,034 --> 00:07:49,918
+Once we were able to lay it out in those clear terms, then Candace from the University of Chicago was able to say, well, sounds like an economic problem to me.
+
+101
+00:07:53,091 --> 00:07:56,553
+There's this phrase in economics, the local knowledge problem.
+
+102
+00:07:56,813 --> 00:07:59,494
+And it's why centrally planned economies don't work very well.
+
+103
+00:07:59,854 --> 00:08:13,962
+No matter how smart the people in control are, whether they're in headquarters or the capital or the castle or whatever, they just don't have the knowledge to decide whether the people out in Alaska should get pickles or oranges.
+
+104
+00:08:14,522 --> 00:08:22,486
+And when I talked to Canis, the economist who was in the room with Suzanne and the others, he told me the clear answer to the local knowledge problem is a market.
+
+105
+00:08:22,906 --> 00:08:25,047
+a place where buyers and sellers come together.
+
+106
+00:08:25,408 --> 00:08:34,854
+Because the beauty of a market, and in particular, the beauty of prices, is they show you how much different people, or in this case, different food banks, value different things.
+
+107
+00:08:35,294 --> 00:08:42,199
+But Kanna says that roomful of food bankers was not very excited to hear his pitch for the virtues of the free market.
+
+108
+00:08:42,720 --> 00:08:48,524
+One of the food bankers, a wonderful guy called John Arnold came up to me and said, look, I'm a socialist.
+
+109
+00:08:48,904 --> 00:08:49,824
+I have no interest in this.
+
+110
+00:08:49,905 --> 00:08:51,846
+I listen to you, but I don't have any interest in this.
+
+111
+00:08:52,258 --> 00:08:58,784
+I should mention that John Arnold passed away, but when I ran this quote by Susanna, she said, yeah, I could totally imagine John saying that.
+
+112
+00:08:59,385 --> 00:09:02,988
+And anyway, John was not the only food banker who was wary of the market.
+
+113
+00:09:03,328 --> 00:09:05,470
+I think many of them have the following sense.
+
+114
+00:09:05,891 --> 00:09:07,352
+Markets are sometimes unfair.
+
+115
+00:09:07,933 --> 00:09:09,234
+It benefits the powerful.
+
+116
+00:09:09,574 --> 00:09:10,515
+It benefits the wealthy.
+
+117
+00:09:10,555 --> 00:09:11,636
+It benefits the strong.
+
+118
+00:09:12,137 --> 00:09:17,702
+Their focus is so much on the others, the ones who've been left behind.
+
+119
+00:09:17,982 --> 00:09:19,887
+Left behind by markets, by the markets.
+
+120
+00:09:19,907 --> 00:09:20,408
+By markets.
+
+121
+00:09:20,749 --> 00:09:24,798
+And their great fear is that whatever we came up with would do the same.
+
+122
+00:09:25,199 --> 00:09:27,425
+And if it did, they would prefer the old system.
+
+123
+00:09:27,715 --> 00:09:32,980
+The idea of a market just seems fundamentally contrary to the spirit of food banks.
+
+124
+00:09:33,000 --> 00:09:36,924
+I mean, these are places that give away food for free to hungry people.
+
+125
+00:09:37,244 --> 00:09:41,308
+And in any case, it wasn't like Feeding America could just sell food to the local food banks.
+
+126
+00:09:41,728 --> 00:09:47,754
+One problem with that is the food banks in poor areas often have the hardest time raising money from local donors.
+
+127
+00:09:47,774 --> 00:09:51,297
+They're in poor areas, so they wouldn't have enough money to buy the food.
+
+128
+00:09:51,637 --> 00:09:56,285
+So Canis and the other economists asked the food bankers, what about fake money?
+
+129
+00:09:56,645 --> 00:10:04,098
+What if Feeding America created its own little economy and gave out fake money to all the food banks which they could use to buy the food?
+
+130
+00:10:04,567 --> 00:10:11,831
+Next question they said was, but how do we make sure the neediest get the most food, to which we said we give them the most fake money?
+
+131
+00:10:12,251 --> 00:10:18,935
+And in some sense, maybe that was one of the early breakthrough moments, which was the idea that the poor can actually be wealthier than the rich.
+
+132
+00:10:19,475 --> 00:10:20,236
+In fake money.
+
+133
+00:10:20,656 --> 00:10:22,057
+In fake money, exactly.
+
+134
+00:10:22,455 --> 00:10:30,381
+You could imagine distributing this fake money to the neediest places and then letting them buy, you know, whatever they want out of this national Feeding America system.
+
+135
+00:10:30,801 --> 00:10:33,083
+But you still have to solve all these other problems.
+
+136
+00:10:33,123 --> 00:10:35,785
+You know, what should prices be in this new fake money?
+
+137
+00:10:35,985 --> 00:10:37,987
+How do you let everybody shop in a way that's fair?
+
+138
+00:10:38,327 --> 00:10:41,270
+So more flights to Chicago, more meetings with the economists.
+
+139
+00:10:41,710 --> 00:10:44,252
+And finally, Kanes and his colleagues came up with the big idea.
+
+140
+00:10:44,612 --> 00:10:45,153
+Kanes said,
+
+141
+00:10:45,853 --> 00:10:47,394
+Well, how about eBay?
+
+142
+00:10:47,955 --> 00:11:05,790
+How would it work if we set up a system in which all of the food in truckloads that's donated goes on to a technology platform and the decision as to whether you want it for your food bank is made at the food bank and how much you want it is made by how much you bid on it?
+
+143
+00:11:06,612 --> 00:11:07,893
+And how did that play in the room?
+
+144
+00:11:08,253 --> 00:11:10,475
+The clouds opened and the angels sang.
+
+145
+00:11:11,376 --> 00:11:17,481
+No, that never happened.
+
+146
+00:11:17,661 --> 00:11:26,829
+Okay, maybe it wasn't quite that biblical, but it was literally this moment in which we just went, we have had a breakthrough.
+
+147
+00:11:27,129 --> 00:11:33,555
+It was like setting up a whole economy, fake money, prices set by auctions, and with that key twist,
+
+148
+00:11:33,935 --> 00:11:38,280
+The food banks that fed the most hungry people would get the most fake money.
+
+149
+00:11:40,523 --> 00:11:45,488
+To see how the system works in real life, I went out to the community food bank in New Jersey last week.
+
+150
+00:11:45,829 --> 00:11:47,891
+They have this huge warehouse out by the Newark Airport.
+
+151
+00:11:48,231 --> 00:11:49,493
+Tristan Wallach gave me a tour.
+
+152
+00:11:50,407 --> 00:11:52,068
+You can see some raisins up here.
+
+153
+00:11:52,789 --> 00:11:55,090
+Canned salmon, you got some grapefruit juice.
+
+154
+00:11:56,231 --> 00:11:57,232
+What else do we have there?
+
+155
+00:11:57,272 --> 00:11:58,533
+We have some tomato sauce.
+
+156
+00:11:58,913 --> 00:12:03,036
+Tristan says the most recent thing he bought at auction with that fake money is some syrup.
+
+157
+00:12:03,296 --> 00:12:08,820
+The pancake syrup interested me in particular because I know we just bought some pancake mix.
+
+158
+00:12:09,320 --> 00:12:14,382
+So it's a moment when syrup was particularly valuable to you because you were a guy with pancake batter but no syrup.
+
+159
+00:12:14,562 --> 00:12:15,042
+Exactly.
+
+160
+00:12:15,463 --> 00:12:20,125
+So at least for now that means a lot of people in New Jersey can now have syrup with their pancakes.
+
+161
+00:12:20,445 --> 00:12:21,245
+We'll cut up here.
+
+162
+00:12:21,585 --> 00:12:22,886
+We can head back to the office.
+
+163
+00:12:23,566 --> 00:12:27,968
+The office is a smallish room attached to the warehouse and it's where Tristan bids in these auctions.
+
+164
+00:12:28,388 --> 00:12:33,672
+We get in there and he opens a browser on his computer, logs into the Feeding America system, and shows me this morning's auction.
+
+165
+00:12:34,132 --> 00:12:36,394
+Down at the bottom of the page, there's a number in red.
+
+166
+00:12:36,774 --> 00:12:39,296
+This is like Tristan's bank account of fake money.
+
+167
+00:12:39,736 --> 00:12:43,719
+The money, by the way, has this warm, fuzzy-sounding name, shares.
+
+168
+00:12:44,219 --> 00:12:45,079
+What does this say right here?
+
+169
+00:12:45,220 --> 00:12:46,941
+Yeah, it says available shares.
+
+170
+00:12:47,501 --> 00:12:48,642
+At the moment, I have 5,439 shares.
+
+171
+00:12:48,662 --> 00:12:49,503
+I view it as like monopoly money.
+
+172
+00:12:53,290 --> 00:12:55,132
+except that it has real consequences.
+
+173
+00:12:55,652 --> 00:12:59,796
+Every day, Feeding America gives Tristan some fake money in his bank account.
+
+174
+00:13:00,256 --> 00:13:04,640
+And there's a formula so that the food banks that feed the most people will get the most fake money.
+
+175
+00:13:04,760 --> 00:13:08,243
+Yeah, on a typical day, Tristan's food bank gets a few thousand shares.
+
+176
+00:13:08,564 --> 00:13:09,725
+You can think of it like an allowance.
+
+177
+00:13:09,845 --> 00:13:11,186
+And he can treat it like an allowance.
+
+178
+00:13:11,326 --> 00:13:14,149
+If he wants to spend it every day on something little, he can do that.
+
+179
+00:13:14,509 --> 00:13:17,432
+If he wants to hoard it and splurge on something big, he can do that too.
+
+180
+00:13:17,955 --> 00:13:20,897
+Today, he pulls up the oxygen on his computer, looks through the stuff.
+
+181
+00:13:20,917 --> 00:13:25,140
+There's some phanta grape soda, some polio cheese, and then something catches his eye.
+
+182
+00:13:25,380 --> 00:13:26,801
+It's a truckload of cereal.
+
+183
+00:13:26,901 --> 00:13:30,703
+Clicking on here, I can see that there's a lot of corn flakes.
+
+184
+00:13:30,903 --> 00:13:32,904
+There's a little bit of frosted flakes on here.
+
+185
+00:13:33,565 --> 00:13:35,046
+There's some kashi cereal.
+
+186
+00:13:35,286 --> 00:13:37,307
+It's about 100,000 boxes and all.
+
+187
+00:13:37,547 --> 00:13:41,630
+And he says cereal is something people always want and that he doesn't get enough of from his local donors.
+
+188
+00:13:42,052 --> 00:13:45,116
+He can't actually see how much the other food banks are bidding.
+
+189
+00:13:45,396 --> 00:13:53,525
+And Canis and Susanna and the others, they designed the system this way so that people couldn't just wait until the last second and bid one more fake dollar to get what they wanted.
+
+190
+00:13:53,946 --> 00:13:55,728
+So it's a sealed bid auction.
+
+191
+00:13:55,948 --> 00:13:59,673
+You put a number in and wait, and when the auction's done, you see if you won.
+
+192
+00:14:00,058 --> 00:14:05,962
+The system does tell Tristan that, on average, truckloads of cereal like this one have sold for 4,400 shares.
+
+193
+00:14:06,402 --> 00:14:10,985
+I currently have about 5,400 shares, so I'm gonna bid all of my shares.
+
+194
+00:14:11,085 --> 00:14:12,486
+You're going all in for the cereal?
+
+195
+00:14:12,606 --> 00:14:18,030
+Yeah, I'm gonna go all in, and even going all in, this is no guarantee that I'll get it.
+
+196
+00:14:18,330 --> 00:14:20,492
+Tristan types in his bid, clicks Submit.
+
+197
+00:14:20,792 --> 00:14:23,994
+Now it's a waiting game, crossing fingers and hoping for the best.
+
+198
+00:14:24,394 --> 00:14:29,478
+I asked Tristan to show me some of the other stuff that sold at auction lately, and he pulled up a bunch of results on his screen.
+
+199
+00:14:29,858 --> 00:14:30,558
+And what's this one?
+
+200
+00:14:30,798 --> 00:14:31,298
+Pickles.
+
+201
+00:14:32,699 --> 00:14:33,179
+Pickles.
+
+202
+00:14:33,479 --> 00:14:34,199
+What was the price?
+
+203
+00:14:34,379 --> 00:14:36,279
+They put in a bit of minus 2,000.
+
+204
+00:14:36,659 --> 00:14:38,000
+Minus 2,000.
+
+205
+00:14:38,440 --> 00:14:43,561
+For stuff that's really unpopular, food banks don't want to pay to truck it in, and they don't want to find a place to store it.
+
+206
+00:14:44,001 --> 00:14:45,821
+So they can bid negative shares.
+
+207
+00:14:46,122 --> 00:14:51,163
+In other words, they can say, sure, I will take the pickles if you will give me extra fake money.
+
+208
+00:14:51,563 --> 00:14:52,903
+That's what happened with the pickles.
+
+209
+00:14:53,282 --> 00:14:55,763
+So they won it by saying, yeah, we'll take it off your hands if you pay us.
+
+210
+00:14:56,003 --> 00:14:56,723
+Exactly.
+
+211
+00:14:56,923 --> 00:15:00,244
+A few minutes after Tristan bid on that serial, this morning's auction is over.
+
+212
+00:15:00,484 --> 00:15:02,465
+I think the results should be in if we.
+
+213
+00:15:02,885 --> 00:15:03,345
+I'm nervous.
+
+214
+00:15:03,405 --> 00:15:03,946
+Are you nervous?
+
+215
+00:15:04,026 --> 00:15:04,966
+I'm a little nervous.
+
+216
+00:15:05,306 --> 00:15:06,386
+Tristan hits refresh.
+
+217
+00:15:06,927 --> 00:15:07,807
+So we lost it.
+
+218
+00:15:08,507 --> 00:15:09,127
+You didn't get it.
+
+219
+00:15:09,247 --> 00:15:09,768
+No.
+
+220
+00:15:10,028 --> 00:15:14,949
+Someone else won this load with 11,564 shares.
+
+221
+00:15:15,250 --> 00:15:19,311
+The winner bid twice as much as Tristan, someone in Evansville, Indiana.
+
+222
+00:15:21,672 --> 00:15:22,372
+Can I see food bank?
+
+223
+00:15:22,894 --> 00:15:23,134
+Yes, hi.
+
+224
+00:15:23,214 --> 00:15:24,636
+I'm trying to reach John, please.
+
+225
+00:15:25,196 --> 00:15:25,717
+This is him.
+
+226
+00:15:26,057 --> 00:15:32,043
+This is John Strain of the Tri-State Food Bank, proud new owner of 100,000 boxes of cereal.
+
+227
+00:15:32,264 --> 00:15:35,487
+Was there a particular reason right now that you especially wanted cereal?
+
+228
+00:15:35,507 --> 00:15:44,336
+I just knew that we were down to basically about a half a turn or full of cereal and it goes, it probably will be gone in the next two weeks.
+
+229
+00:15:44,703 --> 00:15:54,029
+John actually gets less fake money allowance every day than Tristan, but he'd been saving up for weeks and he was about to run out of cereal, this food that everybody really wants.
+
+230
+00:15:54,409 --> 00:15:58,031
+At the breakfast, the supper, a midnight, it doesn't matter when you keep cereal, you know.
+
+231
+00:15:58,492 --> 00:16:02,054
+You eat it dry, you eat it with milk, you know, whatever makes you happy.
+
+232
+00:16:02,294 --> 00:16:06,637
+He figured it was worth it to go big, spend more than twice the average and get that cereal.
+
+233
+00:16:07,045 --> 00:16:11,307
+If Tristan, in New Jersey, decides that he really needs cereal, he can save up too.
+
+234
+00:16:11,467 --> 00:16:15,189
+Put his own monster bit up the next time more corn flakes come up for auction.
+
+235
+00:16:15,709 --> 00:16:21,372
+John and Tristan are too new to remember much about that old system back when Feeding America just sent people stuff.
+
+236
+00:16:21,772 --> 00:16:25,014
+But it seems like the new system is definitely an improvement.
+
+237
+00:16:25,454 --> 00:16:30,737
+Susanna Morgan said the auction system meant they could finally get produce at the food bank in Alaska.
+
+238
+00:16:31,157 --> 00:16:36,600
+And Canis, the economist, told me even John Arnold, the socialist from Michigan, even he came around in the end.
+
+239
+00:16:37,063 --> 00:16:41,371
+He went from being the most skeptical to being somebody who actually thought it was worth doing.
+
+240
+00:16:41,731 --> 00:16:42,473
+Wait, what happened?
+
+241
+00:16:43,340 --> 00:16:49,382
+I think what he realized was the use of this market would give him access to a lot of really cheap food.
+
+242
+00:16:49,622 --> 00:16:57,064
+So while other food banks were in bidding wars over cereal, John Arnold could swoop in and pick up the stuff that everybody else was ignoring.
+
+243
+00:16:57,444 --> 00:16:59,184
+And he became what we call the bottom feeders.
+
+244
+00:16:59,504 --> 00:17:03,145
+He was one of these guys who'd log in every morning, see what was cheap, get loads of it.
+
+245
+00:17:03,825 --> 00:17:09,487
+And his solution was essentially the market allows me to get a lot of pounds of food in a way that I did not get before.
+
+246
+00:17:09,827 --> 00:17:16,669
+And when Canis says John would log in and see what was cheap, he of course means what was cheap in fake money.
+
+247
+00:17:17,169 --> 00:17:28,652
+And one of the really interesting things that has emerged from this system is just how different prices are in this fake money food bank economy compared to the real money economy we see at the grocery store.
+
+248
+00:17:29,055 --> 00:17:32,620
+Like peanut butter is incredibly valuable in the food bank economy.
+
+249
+00:17:32,880 --> 00:17:36,965
+It lasts forever, it doesn't have to be refrigerated, and it is a great source of protein.
+
+250
+00:17:37,266 --> 00:17:38,207
+Also, kids love it.
+
+251
+00:17:38,748 --> 00:17:41,832
+A truckload of peanut butter can cost tens of thousands of shares.
+
+252
+00:17:42,232 --> 00:17:45,597
+Dairy, on the other hand, really cheap in the food bank economy.
+
+253
+00:17:46,077 --> 00:17:48,318
+Lots of food banks get local donations of dairy.
+
+254
+00:17:48,659 --> 00:17:52,061
+They often have to move it pretty quickly because it has, you know, short expiration dates.
+
+255
+00:17:52,281 --> 00:17:54,482
+It's harder to store because you have to keep it refrigerated.
+
+256
+00:17:54,842 --> 00:17:59,185
+So up in Michigan, Kansas says John Arnold could buy a lot of dairy.
+
+257
+00:17:59,605 --> 00:18:03,768
+And in the end, John Arnold really helped this system take off all around the country.
+
+258
+00:18:04,208 --> 00:18:12,173
+He was a very persuasive figure because I think a lot of the other food bank director said, if he's in, I'm in because they thought he was unlikely to be a candidate to go along with this.
+
+259
+00:18:12,511 --> 00:18:15,537
+If the socialist is in on the market system, how bad could it be?
+
+260
+00:18:16,039 --> 00:18:16,399
+Exactly.
+
+261
+00:18:16,840 --> 00:18:20,307
+There was one part of the new system that did not work out.
+
+262
+00:18:20,918 --> 00:18:29,863
+Yeah, when Canis and Susanna and the others were in that room creating this new system, they figured food banks should be able to sell food to each other for fake money.
+
+263
+00:18:30,263 --> 00:18:37,226
+So that Idaho food bank with all the potatoes could sell them to Susanna in Alaska and get fake money to buy whatever they needed in Idaho.
+
+264
+00:18:37,827 --> 00:18:44,930
+But even though the food bankers are okay with buying stuff for fake money, they don't really want to sell stuff to other food banks.
+
+265
+00:18:45,410 --> 00:18:48,632
+Here's John Strain who bought the cereal for that food bank in Indiana.
+
+266
+00:18:48,995 --> 00:18:52,181
+If I'm a food bank and I have extra product, I'm going to share with another food bank.
+
+267
+00:18:52,281 --> 00:18:54,385
+I don't want no extra money, no nothing out of it.
+
+268
+00:18:54,785 --> 00:18:58,352
+I've shared with five different food banks in the last 60 days.
+
+269
+00:18:58,592 --> 00:19:01,137
+I just think you should share what you've got if you've got plenty.
+
+270
+00:19:01,435 --> 00:19:05,218
+So, okay, food bank directors are fundamentally generous people.
+
+271
+00:19:05,278 --> 00:19:06,658
+It's why they're running food banks, right?
+
+272
+00:19:06,678 --> 00:19:10,641
+And that is part of the reason this corner of the market never took off.
+
+273
+00:19:11,101 --> 00:19:13,963
+But Susanna Morgan says, there is something else at work.
+
+274
+00:19:14,003 --> 00:19:17,065
+There's something subtler, really another kind of economy.
+
+275
+00:19:17,205 --> 00:19:19,567
+This is a network built on relationships.
+
+276
+00:19:19,827 --> 00:19:24,210
+If you work at a food bank, she says, you need to have friends at other food banks.
+
+277
+00:19:24,648 --> 00:19:27,150
+You're going to rely on those people for more than just food.
+
+278
+00:19:27,170 --> 00:19:30,813
+You're going to rely on those people for stealing their good fundraising practices.
+
+279
+00:19:31,253 --> 00:19:35,536
+You're going to rely on those people for advertising the positions that you have open.
+
+280
+00:19:35,976 --> 00:19:41,720
+So those people are your best source of learning and contacts.
+
+281
+00:19:41,901 --> 00:19:45,023
+And you can use food as one of the ways you nurture those relationships.
+
+282
+00:19:45,423 --> 00:19:52,452
+Susanna is now running the Oregon Food Bank, and she says she does occasionally use the system to sell food to other food banks, but not often.
+
+283
+00:19:52,873 --> 00:19:56,037
+She says she would much rather just give it away to another food bank.
+
+284
+00:20:03,275 --> 00:20:06,298
+That was Stacy Vanick-Smith and Jacob Goldstein from 2015.
+
+285
+00:20:07,940 --> 00:20:13,667
+Coming up on Planet Money Summer School, we will take the parable of the pickles and discuss it with our economists.
+
+286
+00:20:14,207 --> 00:20:19,393
+Where do markets work best and when don't markets work at all after the break?
+
+287
+00:20:21,078 --> 00:20:23,940
+From Miss Anne, to Becky, to Karen.
+
+288
+00:20:24,821 --> 00:20:25,742
+Our very own Karen.
+
+289
+00:20:26,042 --> 00:20:26,742
+Not that Karen.
+
+290
+00:20:26,882 --> 00:20:32,987
+Karen Grigsby-Bates shares the evolution of the nickname for a certain kind of white woman.
+
+291
+00:20:33,367 --> 00:20:35,409
+I'm looking forward to the next iteration.
+
+292
+00:20:35,769 --> 00:20:37,210
+I want my name back.
+
+293
+00:20:37,571 --> 00:20:40,653
+That's coming up on NPR's Code Switch.
+
+294
+00:20:42,174 --> 00:20:47,436
+The indicator from Planet Money is your source for daily economics news, all in less than 10 minutes a day.
+
+295
+00:20:47,456 --> 00:20:49,798
+Listen and subscribe to The Indicator from NPR.
+
+296
+00:21:03,432 --> 00:21:07,694
+When we see a price tag on a product, we think of it in terms of money.
+
+297
+00:21:08,234 --> 00:21:11,315
+But in the case of the food banks, the price wasn't about money.
+
+298
+00:21:11,696 --> 00:21:12,956
+The price was about information.
+
+299
+00:21:13,476 --> 00:21:21,440
+It was about communicating who wanted what, and it helped to find a balance between the supply of different types of food and the demand for each product.
+
+300
+00:21:21,920 --> 00:21:24,261
+There was a reason the pickles had a negative price.
+
+301
+00:21:24,981 --> 00:21:32,905
+So now we wanted to spend a few minutes going over the lessons that we learned in the episode with our two resident economists, Justin Wolfers and Betsy Stevenson.
+
+302
+00:21:33,345 --> 00:21:33,966
+Excited to do it.
+
+303
+00:21:34,306 --> 00:21:35,427
+Yeah, it's nice to be here.
+
+304
+00:21:35,727 --> 00:21:48,158
+You know, the thing that I loved about this episode was when you initially think of economics and auctions, you think of competition, like there are winners and there are losers.
+
+305
+00:21:48,938 --> 00:21:57,065
+But you realize as you listen to the episode that because everyone wants and needs something different, it's not just about winners and losers.
+
+306
+00:21:57,105 --> 00:21:58,667
+There's an opportunity to create
+
+307
+00:21:59,724 --> 00:22:00,885
+more winners, if you will.
+
+308
+00:22:01,566 --> 00:22:04,688
+So the technical expression for this is economists call this gains from trade.
+
+309
+00:22:05,429 --> 00:22:07,131
+Stuff gets allocated to the people who want it most.
+
+310
+00:22:07,571 --> 00:22:09,152
+I'll be honest, I find it kind of magical.
+
+311
+00:22:09,593 --> 00:22:11,895
+All you have to do is change who gets what.
+
+312
+00:22:12,876 --> 00:22:15,598
+And here we do it through markets and we create more joy in the world.
+
+313
+00:22:16,668 --> 00:22:17,649
+Literally, more joy.
+
+314
+00:22:18,309 --> 00:22:20,011
+Same amount of stuff, more joy.
+
+315
+00:22:20,171 --> 00:22:23,373
+The market is figuring it out as it goes by itself.
+
+316
+00:22:23,854 --> 00:22:24,074
+Right.
+
+317
+00:22:24,254 --> 00:22:25,335
+Those aren't the technical terms.
+
+318
+00:22:25,615 --> 00:22:26,195
+It's pretty much.
+
+319
+00:22:26,316 --> 00:22:27,376
+What are the technical terms?
+
+320
+00:22:27,396 --> 00:22:28,918
+That's pretty much the technical term.
+
+321
+00:22:29,018 --> 00:22:33,521
+So no individual knows how much each person would value each good.
+
+322
+00:22:34,002 --> 00:22:38,025
+So solving who shall get what to create the maximum amount of joy is an incredibly hard problem.
+
+323
+00:22:38,105 --> 00:22:41,527
+In programming a computer, it would take years for the computer to solve it.
+
+324
+00:22:41,547 --> 00:22:43,409
+This is just an immensely difficult thing.
+
+325
+00:22:44,114 --> 00:22:56,665
+But a market is like a big calculator and it can aggregate all of this information and figure out a way by adjusting prices to making sure that each of the goods going to the food banks ends up at the food bank that wants it most.
+
+326
+00:22:56,976 --> 00:23:04,862
+So what's remarkable is we're looking at one organization, a food bank, and we can see how big the knowledge problem is.
+
+327
+00:23:05,643 --> 00:23:11,268
+No one at the top of the organization has enough information to be able to make good decisions.
+
+328
+00:23:11,368 --> 00:23:21,356
+The top of the organization just doesn't know about the solution that the Alaskan food bank has worked out in terms of being able to ship from California.
+
+329
+00:23:21,816 --> 00:23:25,939
+They don't know how many potatoes the Idaho Food Bank already has.
+
+330
+00:23:26,400 --> 00:23:28,241
+They just don't have that much information.
+
+331
+00:23:28,361 --> 00:23:34,426
+And if we think that's hard to have within an organization, imagine if you were trying to do that for the entire economy.
+
+332
+00:23:34,706 --> 00:23:38,589
+It's a colossal challenge and really no one's up to the task.
+
+333
+00:23:38,930 --> 00:23:50,659
+Well, some people would probably say, well, you just need more computers and more inventory and more AI learning and figuring out who wants what in some sort of database option.
+
+334
+00:23:51,220 --> 00:23:59,146
+Bottom line is that the information is too dispersed across society for it to be able to be aggregated together into one person.
+
+335
+00:23:59,867 --> 00:24:03,009
+But what we do have in markets is prices.
+
+336
+00:24:03,570 --> 00:24:07,693
+And prices plays the role of helping us aggregate that information.
+
+337
+00:24:08,173 --> 00:24:09,494
+Price acts as a signal.
+
+338
+00:24:10,015 --> 00:24:20,063
+So if we view the food bank market as this elegant solution to the problems of distribution they had, and it did work beautifully, but what can go wrong in a market?
+
+339
+00:24:20,765 --> 00:24:24,649
+Well, there are a number of things that can occur that we call market failures.
+
+340
+00:24:25,290 --> 00:24:32,397
+But perhaps the most relevant one to think about right now is how market power can undermine competitive pressures.
+
+341
+00:24:33,355 --> 00:24:49,264
+In a normal market, we can think about a world where we don't have a bunch of different sellers competing with a bunch of different buyers, but perhaps we have only one primary buyer and lots of different sellers.
+
+342
+00:24:49,544 --> 00:24:51,285
+People worry about that in the labor market.
+
+343
+00:24:51,305 --> 00:24:55,467
+What if you're in a small town and Walmart's the only employer?
+
+344
+00:24:55,487 --> 00:25:00,650
+That's one buyer and lots and lots of people trying to get a job.
+
+345
+00:25:01,670 --> 00:25:17,938
+And so you can think who's going to have power in that relationship, who's going to be able to get a price that benefits them most, who's going to be able to try to extract as much of the benefits from that relationship as possible, it's going to be the one who has market power.
+
+346
+00:25:18,498 --> 00:25:25,482
+We can think about it on the other side where perhaps there's one seller in many, many different buyers.
+
+347
+00:25:26,452 --> 00:25:31,753
+Many people have noted that prices on Amazon seem to be going up during the pandemic.
+
+348
+00:25:32,454 --> 00:25:35,494
+Amazon is a company that seems to have a lot of market power right now.
+
+349
+00:25:35,574 --> 00:25:39,575
+Lots of people are turning to their computers and trying to order from Amazon.
+
+350
+00:25:39,595 --> 00:25:44,096
+So you've got lots and lots of different buyers, not one seller.
+
+351
+00:25:44,136 --> 00:25:53,459
+There's obviously alternatives, but that's a situation where it's easier for a company to extract higher profits out of their customers.
+
+352
+00:25:54,309 --> 00:25:59,875
+Justin, are there places where a market can never work or shouldn't work?
+
+353
+00:25:59,975 --> 00:26:11,408
+I mean, I don't know much about your own family, but you don't distribute love coupons that are tradable for hugs, and you don't have that sort of market-based economy just in your family.
+
+354
+00:26:12,112 --> 00:26:12,452
+Do you?
+
+355
+00:26:13,672 --> 00:26:14,453
+Currently, we don't.
+
+356
+00:26:16,293 --> 00:26:21,775
+There's an SEC investigation at the moment of the snuggle market, and we had to suspend trading.
+
+357
+00:26:22,655 --> 00:26:26,116
+But are there areas where you should not try and enforce a market solution?
+
+358
+00:26:26,536 --> 00:26:26,676
+Right.
+
+359
+00:26:26,716 --> 00:26:31,998
+So there are some areas where trust works really, really well, and that's why we do a lot of things in families.
+
+360
+00:26:33,712 --> 00:26:38,335
+And there are some parts of markets where if people don't have trust, they work really, really poorly.
+
+361
+00:26:38,956 --> 00:26:43,479
+Economists call this trust problem an information problem because what if you know something that I don't?
+
+362
+00:26:44,459 --> 00:26:50,163
+If I don't trust you that you would tell me bad news about the product, then I start to worry you're trying to sell me a dud.
+
+363
+00:26:50,203 --> 00:26:58,989
+So to give a really simple example, lots of people end up buying a used car from an aunt, an uncle, their parents, a brother or a sister.
+
+364
+00:26:59,749 --> 00:27:03,432
+They do that because they know if it was a really crappy car, they'd probably get told.
+
+365
+00:27:04,588 --> 00:27:10,253
+Whereas when you go down to the local use car lot, I've never met a used car salesman who said, look, the reason this one's cheap is because it's a dad.
+
+366
+00:27:11,374 --> 00:27:11,814
+It's a limit.
+
+367
+00:27:12,495 --> 00:27:21,182
+And so when one person knows something that the other doesn't, and there's not bombs of trust between them, that can really undermine markets.
+
+368
+00:27:21,222 --> 00:27:24,705
+It's a big deal also in health insurance and healthcare markets as well.
+
+369
+00:27:25,063 --> 00:27:30,970
+Let me give you another situation where people are typically not comfortable with markets.
+
+370
+00:27:31,751 --> 00:27:38,859
+And that's for things where people feel like trading, particularly involving cash, would be repugnant.
+
+371
+00:27:39,519 --> 00:27:41,962
+So we don't have a market for organs.
+
+372
+00:27:42,763 --> 00:27:52,147
+You might need a new kidney, but it's not okay to go and say, hey, you got two, I'll give you 30 grand for one.
+
+373
+00:27:53,288 --> 00:27:57,610
+That market is seen as just morally wrong.
+
+374
+00:27:57,870 --> 00:28:00,351
+Although to be clear, a lot of economists think that's a mistake.
+
+375
+00:28:01,191 --> 00:28:04,633
+If we offered people 30 grand for kidneys, we might get more kidneys.
+
+376
+00:28:04,893 --> 00:28:08,315
+So there's this delicate dance between economics and ethics here.
+
+377
+00:28:08,995 --> 00:28:10,976
+But those are places where
+
+378
+00:28:11,905 --> 00:28:20,772
+you know, there are real ethical concerns about people who would, you know, think, you know, my, I got to put food on the table for my kids.
+
+379
+00:28:21,553 --> 00:28:25,836
+And I don't, the market for my labor isn't working out very well.
+
+380
+00:28:25,976 --> 00:28:28,158
+Maybe I should start selling off a kidney.
+
+381
+00:28:29,079 --> 00:28:36,725
+That is a reason why there's lots of markets that we have tried to say, you know, we're just not comfortable with this.
+
+382
+00:28:37,105 --> 00:28:38,567
+The technical term is icky.
+
+383
+00:28:40,489 --> 00:28:41,289
+Icky.
+
+384
+00:28:41,369 --> 00:28:50,599
+That's going to be one of our vocabulary words for the day, icky, as well as the phrase local knowledge problem, where people at the top of an organization don't know what's happening down at the bottom.
+
+385
+00:28:51,280 --> 00:28:58,527
+And the phrase gains from trade, which Justin used, where if you allow people to voluntarily trade, everyone can get happier.
+
+386
+00:28:58,607 --> 00:29:00,068
+There's just more joy in the world.
+
+387
+00:29:00,669 --> 00:29:09,716
+So one thing we wanted to do each week is to give you the summer school student an assignment, something you can think about during the week about applying these lessons to your life, Justin.
+
+388
+00:29:10,216 --> 00:29:25,307
+My assignment for summer school, take a look at an organization that you really admire and ask yourself, is it organized more like the way fitting America used to be organized with a centralized planner, making decisions that affect the rest of the organization, possibly based on incomplete information?
+
+389
+00:29:26,158 --> 00:29:36,823
+Or is it organized more like Feeding America was after reorganized around markets where power left the executive office instead was devolved to individual decision makers to buy and sell in markets?
+
+390
+00:29:37,804 --> 00:29:49,910
+And then once you've thought which of those two models your organization fits in, try and imagine what it would look like the other way and ask yourself whether it could be more effective if it reorganized the other way.
+
+391
+00:29:57,484 --> 00:30:01,607
+Okay listener, you have your assignment and let's take a look at the syllabus.
+
+392
+00:30:01,927 --> 00:30:11,435
+We will be back next Wednesday with a class where we consider price elasticity and barriers to entry by talking to a drug dealer.
+
+393
+00:30:12,316 --> 00:30:13,237
+Thank you Justin Betsy.
+
+394
+00:30:13,517 --> 00:30:14,838
+It's gonna be so fun next week.
+
+395
+00:30:16,392 --> 00:30:19,495
+Do let us know what you came up with from our assignment this week.
+
+396
+00:30:19,955 --> 00:30:22,898
+Remember it was taken organization, maybe one where you work.
+
+397
+00:30:23,499 --> 00:30:29,564
+And imagine how it would work better if you reorganized it with more or less central decision making.
+
+398
+00:30:30,045 --> 00:30:33,788
+And then you should send that idea to your boss and to us here at PlanetMoney.
+
+399
+00:30:33,848 --> 00:30:36,010
+We're PlanetMoney at npr.org.
+
+400
+00:30:36,771 --> 00:30:43,153
+or you can find us on Facebook, Instagram, Twitter, and we are doing special TikToks on the TikTok app.
+
+401
+00:30:43,634 --> 00:30:47,875
+Reinforcing the economic lessons from summer school, you can find us there at Planet Money.
+
+402
+00:30:48,556 --> 00:30:55,738
+Today's class was produced by Lauren Hodges with help from James Snead, Darian Woods, Alexi Horowitz-Gazi, Nick Fountain, and Liza Yeager.
+
+403
+00:30:56,158 --> 00:30:57,699
+Sound design from Isaac Rodriguez.
+
+404
+00:30:58,219 --> 00:30:59,800
+The show was edited by Alex Goldmark.
+
+405
+00:31:00,380 --> 00:31:08,664
+Betsy Stevenson and Justin Wolfers are professors of economics and public policy at the University of Michigan, and later this summer they will debut a new audio course.
+
+406
+00:31:09,184 --> 00:31:12,765
+It's called Think Like An Economist, and you can find it on the Himalaya app.
+
+407
+00:31:13,506 --> 00:31:15,646
+Alright everyone, do your homework, study for the test.
+
+408
+00:31:15,666 --> 00:31:18,007
+I'm Robert Spiff, this is NPR.
+
+409
+00:31:18,348 --> 00:31:18,968
+Thanks for listening.
+
